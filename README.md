@@ -1,7 +1,7 @@
 <h1 align=“center”>Hi 👋, I’m Vrishank Kirpane</h1>
-<h3 align="center">A PASSIONATE DEVELOPER FROM INDIA </h3>
-<img align=“right” alt=“coding”width=“100” src=https://www.iventra.com/assets/images/bg/back-end-developer.gif>
-<img align="center" alt="coding"width="100" src =https://media4.giphy.com/media/zhYSVCirREeIZtONCI/200w.gif?cid=82a1493bm3hxxglrhplf38ttlvg01wk8szw00nw2gi1xvyin&ep=v1_gifs_related&rid=200w.gif&ct=s>
+<h3 align="center">A PASSIONATE DEVELOPER FROM INDIA </h3> 
+<img align=“right” alt=“coding”width=“50” src=https://www.iventra.com/assets/images/bg/back-end-developer.gif>
+<img align="center" alt="coding"width="100" src =https://media4.giphy.com/media/zhYSVCirREeIZtONCI/200w.gif?
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrishank1234&label=Profile%20views&color=0e75b6&style=flat" alt="vrishank1234" /> </p>
 
 - 🌱 I’m currently learning **CSE , Figma , Photoshop , Python ...**
