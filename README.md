@@ -1,4 +1,3 @@
-[logo](https://66.media.tumblr.com/927b527f2141092e7eb13bfaac892e16/59917446139250e2-72/s400x600/c49e755eba2eae4e84fc4c38f00fe146a29f69cf.gif)
 <h1 align=“center”>Hi 👋, I’m Vrishank Kirpane</h1>
 <h3 align="center">A passionate developer from India</h3>
 
