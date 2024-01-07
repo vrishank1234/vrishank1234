@@ -1,6 +1,7 @@
 <h1 align=“center”>Hi 👋, I’m Vrishank Kirpane</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align=“right” alt=“coding”width=“400” src=“ https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif”>
+<img align=“right” alt=“coding”width=“400” src=![image](https://github.com/vrishank1234/vrishank1234/assets/142775808/b916d6b7-b826-499e-b800-633716c42cad)
+>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrishank1234&label=Profile%20views&color=0e75b6&style=flat" alt="vrishank1234" /> </p>
 
