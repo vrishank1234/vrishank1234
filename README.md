@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrishank1234&label=Profile%20views&color=0e75b6&style=flat" alt="vrishank1234" /> </p>
 
-- 🌱 I’m currently learning **DSA,Photoshop...**
+- 🌱 I’m currently learning **Frontend Development...**
 
 - 📫 How to reach me **2023.vrishankk@isu.ac.in**
 <p><img align="center" src="https://www.bleepstatic.com/content/hl-images/2022/04/08/GitHub__headpic.jpg"/></p>
