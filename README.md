@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Frontend Development...**
 
 - 📫 How to reach me **2023.vrishankk@isu.ac.in**
-<p><img align="center" src="https://www.bleepstatic.com/content/hl-images/2022/04/08/GitHub__headpic.jpg"/></p>
+<p><img align="center" src="https://user-images.githubusercontent.com/4738687/49405334-49505c80-f739-11e8-992e-32f4b6e18311.gif"/></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/vrishank-kirpane-a918722a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/vrishank-kirpane-a918722a5" height="30" width="40" /></a>
