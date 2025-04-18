@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrishank1234&label=Profile%20views&color=0e75b6&style=flat" alt="vrishank1234" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development...**
+- 🌱 Full Stack Developer....
 
 - 📫 How to reach me **2023.vrishankk@isu.ac.in**
 <p><img align="center" src="https://user-images.githubusercontent.com/4738687/49405334-49505c80-f739-11e8-992e-32f4b6e18311.gif"/></p>
